@@ -11,6 +11,7 @@ This project is a mini version of a working blogging website. This project is do
 3. You can add/make as many blogs you want.
 4. You can add Headings, paragraphs, and Images to the blog post. 
 5. Have read more blogs section also.
+6. Have your own profile.
 
 # demo
 https://blogshots.herokuapp.com/
