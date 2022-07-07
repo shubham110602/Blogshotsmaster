@@ -13,5 +13,3 @@ This project is a mini version of a working blogging website. This project is do
 5. Have read more blogs section also.
 6. Have your own profile.
 
-# demo
-https://blogshots.herokuapp.com/
